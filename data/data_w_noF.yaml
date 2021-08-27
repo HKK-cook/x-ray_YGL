@@ -1,0 +1,19 @@
+names:
+  - Aortic enlargement
+  - Atelectasis
+  - Calcification
+  - Cardiomegaly
+  - Consolidation
+  - ILD
+  - Infiltration
+  - Lung Opacity
+  - Nodule/Mass
+  - Other lesion
+  - Pleural effusion
+  - Pleural thickening
+  - Pneumothorax
+  - Pulmonary fibrosis
+  - No finding
+nc: 15
+train: C:/Users/4Kims/0_python/x_ray/data/images/train/
+val: C:/Users/4Kims/0_python/x_ray/data/images/val/
